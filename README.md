@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, that's what I do, that's who I am
 - 🌱 I’m currently learning C, C++, bash, python3, javascript
 - 💞️ I’m looking to collaborate on any kind of project
-- 📫 How to reach me : You could just follow me on github and i'd probably reach you
+- 📫 How to reach me : You could just follow me on github and i'd probably reach you, or send me a mail
 - ⚡ Fun fact: I started coding at 9
 
 <!---
