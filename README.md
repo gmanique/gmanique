@@ -47,8 +47,8 @@ Always coding, learning, and building projects that challenge me.
 
 ## 📫 Contact
 
-- Email: gaetan5483@gmail.com  
-- LinkedIn: [Gaet]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ga%C3%ABtan-maniquet-8a4080354/))
+- Email: gaetan5483@gmail.com
+- LinkedIn: [Gaet](https://www.linkedin.com/in/ga%C3%ABtan-maniquet-8a4080354/)
 
 ---
 
