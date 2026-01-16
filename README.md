@@ -3,8 +3,9 @@
 I'm a computer science student at 42 Paris, passionate about programming, game development, and creating my own programming languages.  
 Always coding, learning, and building projects that challenge me.  
 
-> “Code like nobody’s watching.”  
-> “Always learning, always creating.”
+> “Code like nobody’s watching.”
+> "What's the color of grass already ?"
+> "I wanna be the very best, like no one ever was."
 
 ---
 
