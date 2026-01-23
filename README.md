@@ -71,5 +71,5 @@ Always coding, learning, and building projects that challenge me.
 - 2014: Made my first game on Scratch
 - 2023: Joined a Computer Sciences university
 - 2024: Joined 42 Paris 
-- 2025: Started G_Language (my own programming language)  
+- 2026: Started G_Language (my own programming language)  
 
