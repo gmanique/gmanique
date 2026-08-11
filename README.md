@@ -54,13 +54,6 @@ Always coding, learning, and building projects that challenge me.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gmanique&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gmanique&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Facts
 - I started coding my first game at 9 years old  
 - I’m building my own programming language  
