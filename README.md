@@ -18,7 +18,7 @@ Always coding, learning, and building projects that challenge me.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-- **Development**: Game dev, algorithms, AI, creating programming languages  
+- **Development**: Game dev, algorithms, creating programming languages  
 - **Tools**: Git, Makefile, Linux, Vim/VSCode  
 - **Personal projects**: G_Language, game projects  
 
@@ -28,19 +28,20 @@ Always coding, learning, and building projects that challenge me.
 
 - **[G_Language](https://github.com/gmanique/G_Language)**  
   My own programming language to experiment with language design and compilation.
+- **[ft_irc](https://github.com/gmanique/ft_irc)**
+  My own IRC server
 
 ---
 
 ## 🔨 Work in Progress
 
-- AI-powered game bot (C)  
 - New G_Language compiler features  
 
 ---
 
 ## 🎮 Interests
 
-- Game development and AI  
+- Game development  
 - Creating programming languages  
 - Music, rap, and creative writing  
 
@@ -55,8 +56,8 @@ Always coding, learning, and building projects that challenge me.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmanique&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmanique&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gmanique&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gmanique&layout=compact&theme=radical)
 
 ---
 
