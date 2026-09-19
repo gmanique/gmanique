@@ -1,6 +1,7 @@
 # Hi, I'm Gaet! 👋
 
-I'm a computer science student at 42 Paris, passionate about programming, game development, and creating my own programming languages.  
+I'm a computer science student at 42 Paris, passionate about programming,
+game development, and creating my own programming languages.
 Always coding, learning, and building projects that challenge me.
 
 > “Code like nobody’s watching.”
